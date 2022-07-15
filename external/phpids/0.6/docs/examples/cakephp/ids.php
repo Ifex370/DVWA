@@ -83,14 +83,6 @@ class IdsComponent extends Object {
     );
 
     /**
-     * define the email addresses for idsmail
-     */
-    private $email = array(
-        'address1@what.ever',
-        'address2@what.ever'
-    );
-
-    /**
      * the init object
      */
     private $init = NULL;
